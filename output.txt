@@ -1,0 +1,38 @@
+File: audio2.m4a
+{
+    "requestId": "8091064611216640860",
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.9771673,
+                    "transcript": "I really really really like ice cream specifically chocolate ice cream and vanilla ice cream I don't like any other flavors of ice cream because I think that they are too complicated so yeah I would prefer to stick to the simple types of ice cream"
+                }
+            ],
+            "languageCode": "en-us",
+            "resultEndTime": "22.320s"
+        }
+    ],
+    "totalBilledTime": "23s",
+    "usingLegacyModels": true
+}
+
+File: audio1.m4a
+{
+    "requestId": "1137703337904587042",
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.98514044,
+                    "transcript": "I love to eat pineapples on my pizza because they are delicious but I don't like any other toppings like spinach or chicken or anything of that sort"
+                }
+            ],
+            "languageCode": "en-us",
+            "resultEndTime": "16.890s"
+        }
+    ],
+    "totalBilledTime": "17s",
+    "usingLegacyModels": true
+}
+
